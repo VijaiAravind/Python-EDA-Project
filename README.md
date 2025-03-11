@@ -2,6 +2,7 @@
 ---
 ## **Project Overview**
 This project performs Exploratory Data Analysis (EDA) on Airbnb data to uncover trends and patterns in rental listings. We use libraries like Pandas, Numpy, Matplotlib, and Seaborn for cleaning, visualization, and analysis.
+
 ---
 ## **Objective**
 The goal of this project:
