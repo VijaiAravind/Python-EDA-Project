@@ -55,7 +55,7 @@ The dataset contains 20,765 entries and 22 features, including:
    - **Histograms and Boxplots**: To detect outliers in `price`.
    - **Bar Charts**: Displaying room types and neighborhood group distributions.
    
-## Key Findings and Insights
+## **Key Findings and Insights**:
 1. **Price Trends**:  
    - Manhattan has the most expensive listings, followed by Brooklyn.  
    - Entire homes/apartments cost significantly more than private or shared rooms.  
