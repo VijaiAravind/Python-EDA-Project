@@ -23,12 +23,12 @@ The dataset contains 20,765 entries and 22 features, including:
    - **reviews_per_month**: Average monthly reviews for the listing
    - **availability_365**: Number of available days in the year
 
-## **1. Data Cleaning**
+## **1. Data Cleaning**:
    - **Handle missing data**: `price`, `neighbourhood`, and `beds` columns had null values.
    - **Fix data types**: Converted `id` and `host_id` into object datatype.
    - **Remove outliers**: Listings with prices < $3,000 were capped to avoid skewed visualizations.
 
-## **2. EDA (Exploratory Data Analysis)**
+## **2. EDA (Exploratory Data Analysis)**:
 1. **Room type distribution**: 
    - Visualized the count of each room type using bar plots.
    - Identified entire home/apt as the most common room type.
@@ -74,5 +74,5 @@ The dataset contains 20,765 entries and 22 features, including:
    - Some hosts manage multiple listings, indicating a trend toward professional hosting. 
   
 
-## Conclusion
+## **Conclusion**:
 This project offers valuable insights into the New York Airbnb market, helping guests and hosts make informed decisions. By using EDA techniques and Visualizations, we identified key trends and developed actionable recommendations.
